@@ -11,7 +11,7 @@ function Header() {
       <div>
         <Link to="/">
           <img
-            src="public/360_F_285592432_M3DaUTpVAct2YHBPgj9j2xZ4ziZMmc0y (1).webp"
+            src="/360_F_285592432_M3DaUTpVAct2YHBPgj9j2xZ4ziZMmc0y (1).webp"
             alt=""
             className="h-[8vh]"
           />

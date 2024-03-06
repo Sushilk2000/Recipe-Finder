@@ -41,8 +41,8 @@ Certainly! Let's create a descriptive README for your project hosted on GitHub. 
 
 ## Screenshots
 
-![Recipe Search](Screenshot 2024-03-06 120028.png)
-![Recipe Details](Screenshot 2024-03-06 120235.png)
+![Recipe Search](<public/Screenshot 2024-03-06 120028.png>)
+![Recipe Details](<public/Screenshot 2024-03-06 120235.png>)
 
 ## Contributing
 

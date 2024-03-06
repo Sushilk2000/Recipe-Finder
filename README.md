@@ -4,7 +4,7 @@ Certainly! Let's create a descriptive README for your project hosted on GitHub. 
 
 # Recipe Finder Web Application
 
-![Recipe Finder] (https://recipe-finder-sushil.netlify.app/)
+[Hosted Link](https://recipe-finder-sushil.netlify.app/)
 
 **Recipe Finder** is a web application where users can search for a variety of recipes and find detailed information about each recipe, including ingredients and quantities. Users can also save their favorite recipes using the browser's local storage.
 

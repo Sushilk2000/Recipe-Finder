@@ -55,5 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to customize this template with specific details about your project, such as technologies used, additional features, and any other relevant information. Happy coding! 🚀
-
-For more examples of READMEs, you can explore other recipe-related projects like [Foodverse](https://github.com/masudranashawon/foodverse) and [Food Recipe Finder](https://github.com/ddipendrac/food-recipe-finder)¹²³.
